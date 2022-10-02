@@ -1,0 +1,19 @@
+ .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ img{
+    max-width: 100%;
+
+ }
+ .img{
+    flex-basis: 80%;
+
+ }
+ .text{
+    font-size: 40px;
+   padding: 10%;
+   color: red;
+ }
+ 
